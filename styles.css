@@ -1,0 +1,24 @@
+#top{
+    
+    background-color:#39FF14;
+    color: black;
+}
+#middle{
+    background-color:#39FF14;
+    color: black;
+}
+#bottom{
+    color:white;
+}
+#heading{
+    text-align: center;
+    color: white;
+}
+#bio{
+    color: white;
+}
+.center{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
